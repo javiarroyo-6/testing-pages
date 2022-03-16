@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/testing-pages/static/css/main.5e3a7e91.css",
-    "main.js": "/testing-pages/static/js/main.69d57274.js",
-    "static/js/787.d985ffca.chunk.js": "/testing-pages/static/js/787.d985ffca.chunk.js",
-    "static/media/img-2.jpg": "/testing-pages/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
-    "static/media/airplaneSVG.svg": "/testing-pages/static/media/airplaneSVG.5b74db96de64e4937192.svg",
-    "static/media/productsDAF.jpeg": "/testing-pages/static/media/productsDAF.8215ff9982e46290f57c.jpeg",
-    "static/media/img-8.jpg": "/testing-pages/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
-    "static/media/logo.svg": "/testing-pages/static/media/logo.fe661d13fa214f9166a01ad8a6a3b5bd.svg",
-    "index.html": "/testing-pages/index.html",
-    "main.5e3a7e91.css.map": "/testing-pages/static/css/main.5e3a7e91.css.map",
-    "main.69d57274.js.map": "/testing-pages/static/js/main.69d57274.js.map",
-    "787.d985ffca.chunk.js.map": "/testing-pages/static/js/787.d985ffca.chunk.js.map"
+    "main.css": "/static/css/main.5651fe2a.css",
+    "main.js": "/static/js/main.5d9048df.js",
+    "static/js/787.d985ffca.chunk.js": "/static/js/787.d985ffca.chunk.js",
+    "static/media/img-2.jpg": "/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/airplaneSVG.svg": "/static/media/airplaneSVG.5b74db96de64e4937192.svg",
+    "static/media/productsDAF.jpeg": "/static/media/productsDAF.8215ff9982e46290f57c.jpeg",
+    "static/media/img-8.jpg": "/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "static/media/logo.svg": "/static/media/logo.fe661d13fa214f9166a01ad8a6a3b5bd.svg",
+    "index.html": "/index.html",
+    "main.5651fe2a.css.map": "/static/css/main.5651fe2a.css.map",
+    "main.5d9048df.js.map": "/static/js/main.5d9048df.js.map",
+    "787.d985ffca.chunk.js.map": "/static/js/787.d985ffca.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e3a7e91.css",
-    "static/js/main.69d57274.js"
+    "static/css/main.5651fe2a.css",
+    "static/js/main.5d9048df.js"
   ]
 }
