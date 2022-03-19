@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.5651fe2a.css",
-    "main.js": "/static/js/main.5d9048df.js",
+    "main.css": "/static/css/main.99dd4b82.css",
+    "main.js": "/static/js/main.432dab89.js",
     "static/js/787.d985ffca.chunk.js": "/static/js/787.d985ffca.chunk.js",
     "static/media/img-2.jpg": "/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
     "static/media/airplaneSVG.svg": "/static/media/airplaneSVG.5b74db96de64e4937192.svg",
     "static/media/productsDAF.jpeg": "/static/media/productsDAF.8215ff9982e46290f57c.jpeg",
     "static/media/img-8.jpg": "/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "static/media/404Image.jpeg": "/static/media/404Image.e7fdeadd3ab9f99f6083.jpeg",
     "static/media/logo.svg": "/static/media/logo.fe661d13fa214f9166a01ad8a6a3b5bd.svg",
     "index.html": "/index.html",
-    "main.5651fe2a.css.map": "/static/css/main.5651fe2a.css.map",
-    "main.5d9048df.js.map": "/static/js/main.5d9048df.js.map",
+    "main.99dd4b82.css.map": "/static/css/main.99dd4b82.css.map",
+    "main.432dab89.js.map": "/static/js/main.432dab89.js.map",
     "787.d985ffca.chunk.js.map": "/static/js/787.d985ffca.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5651fe2a.css",
-    "static/js/main.5d9048df.js"
+    "static/css/main.99dd4b82.css",
+    "static/js/main.432dab89.js"
   ]
 }
